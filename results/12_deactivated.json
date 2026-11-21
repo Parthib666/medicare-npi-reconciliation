@@ -1,0 +1,19 @@
+[{
+  "deactivation_group": "before_2015",
+  "providers": "13",
+  "allowed_usd": "597892.0",
+  "earliest": "2005-05-23",
+  "latest": "2008-02-07"
+}, {
+  "deactivation_group": "during_2015",
+  "providers": "751",
+  "allowed_usd": "28842909.0",
+  "earliest": "2015-01-16",
+  "latest": "2015-12-30"
+}, {
+  "deactivation_group": "after_2015",
+  "providers": "34253",
+  "allowed_usd": "2910775631.0",
+  "earliest": "2016-01-04",
+  "latest": "2026-02-06"
+}]

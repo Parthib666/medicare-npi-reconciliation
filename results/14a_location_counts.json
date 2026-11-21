@@ -1,0 +1,17 @@
+[{
+  "location_result": "match",
+  "providers": "713897",
+  "allowed_usd": "80837512992.0"
+}, {
+  "location_result": "zip_mismatch",
+  "providers": "140463",
+  "allowed_usd": "14946461291.0"
+}, {
+  "location_result": "state_mismatch",
+  "providers": "79027",
+  "allowed_usd": "6097303255.0"
+}, {
+  "location_result": "not_compared",
+  "providers": "11",
+  "allowed_usd": "1333019.0"
+}]

@@ -1,0 +1,14 @@
+[{
+  "medicare_npis": "968417",
+  "base_rows": "968415",
+  "registry_rows": "968415",
+  "registry_unique_npis": "968415",
+  "active": "930771",
+  "deactivated": "35017",
+  "reactivated": "2627",
+  "taxonomy_from_switch": "933398",
+  "taxonomy_from_fallback": "0",
+  "active_taxonomy_missing": "0",
+  "taxonomy_unlabeled": "502",
+  "active_without_entity_type": "0"
+}]

@@ -1,0 +1,23 @@
+[{
+  "providers": "968417",
+  "npis_multi_name": "0",
+  "npis_multi_state": "0",
+  "npis_multi_provider_type": "0",
+  "individuals": "906397",
+  "organisations": "62020",
+  "entity_other": "0",
+  "blank_last_org_name": "0",
+  "individual_blank_first_name": "0",
+  "blank_state": "0",
+  "blank_zip": "0",
+  "blank_provider_type": "0",
+  "npi_not_10_digits": "0",
+  "zip_not_5_digits": "18",
+  "distinct_states": "61",
+  "distinct_provider_types": "91",
+  "nonpositive_allowed": "0",
+  "min_allowed_usd": "0.93",
+  "median_allowed_usd": "37513.45",
+  "p99_allowed_usd": "1016461.8",
+  "max_allowed_usd": "194830636.01"
+}]

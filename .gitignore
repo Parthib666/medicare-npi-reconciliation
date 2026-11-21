@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and credentials: never commit
+data/
+*.csv.gz
+*credentials*.json
+*service-account*.json
+.env
+
+# Row-level results that name individual providers. The data is public, but a
+# public repo shouldn't single out named people as "failing" a check.
+# Rebuild them locally from sql/10, sql/15 and sql/17.
+results/10_not_in_registry.json
+results/15c_name_examples_people.json
+results/17_issued_after_billing.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

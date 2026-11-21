@@ -1,0 +1,121 @@
+[{
+  "entity_code": "O",
+  "medicare_name": "BIO-REFERENCE LABORATORIES, INC.",
+  "registry_name": "BIOREFERENCE HEALTH, LLC",
+  "medicare_key": "BIOREFERENCELABORATORIES",
+  "registry_key": "BIOREFERENCEHEALTH"
+}, {
+  "entity_code": "O",
+  "medicare_name": "MIRACA LIFE SCIENCES, INC.",
+  "registry_name": "INFORM DIAGNOSTICS, INC.",
+  "medicare_key": "MIRACALIFESCIENCES",
+  "registry_key": "INFORMDIAGNOSTICS"
+}, {
+  "entity_code": "O",
+  "medicare_name": "GENOPTIX, INC.",
+  "registry_name": "NEOGENOMICS LABORATORIES INC",
+  "medicare_key": "GENOPTIX",
+  "registry_key": "NEOGENOMICSLABORATORIES"
+}, {
+  "entity_code": "O",
+  "medicare_name": "PREVENTICE SERVICES, LLC",
+  "registry_name": "BOSTON SCIENTIFIC CARDIAC DIAGNOSTIC SERVICES, LLC",
+  "medicare_key": "PREVENTICESERVICES",
+  "registry_key": "BOSTONSCIENTIFICCARDIACDIAGNOSTICSERVICES"
+}, {
+  "entity_code": "O",
+  "medicare_name": "LOS ANGELES CITY FIRE DEPARTMENT",
+  "registry_name": "CITY OF LOS ANGELES",
+  "medicare_key": "LOSANGELESCITYFIREDEPARTMENT",
+  "registry_key": "CITYOFLOSANGELES"
+}, {
+  "entity_code": "O",
+  "medicare_name": "AMERATHON,LLC",
+  "registry_name": "AMERICAN HEALTH MW, LLC",
+  "medicare_key": "AMERATHON",
+  "registry_key": "AMERICANHEALTHMW"
+}, {
+  "entity_code": "O",
+  "medicare_name": "BLACKFLY INVESTMENTS LLC",
+  "registry_name": "CARENEXA, LLC",
+  "medicare_key": "BLACKFLYINVESTMENTS",
+  "registry_key": "CARENEXA"
+}, {
+  "entity_code": "O",
+  "medicare_name": "CARE AMBULANCE SERVICE, INC.",
+  "registry_name": "FALCK MOBILE HEALTH CORP",
+  "medicare_key": "CAREAMBULANCESERVICE",
+  "registry_key": "FALCKMOBILEHEALTH"
+}, {
+  "entity_code": "O",
+  "medicare_name": "AMERICAN HEALTH ASSOCIATES INC",
+  "registry_name": "AMERICAN HEALTH S, LLC",
+  "medicare_key": "AMERICANHEALTHASSOCIATES",
+  "registry_key": "AMERICANHEALTHS"
+}, {
+  "entity_code": "O",
+  "medicare_name": "PHYSICIAN\u0027S AUTOMATED LABORATORY, INC",
+  "registry_name": "PACIFIC POINT LABORATORIES, INC.",
+  "medicare_key": "PHYSICIANSAUTOMATEDLABORATORY",
+  "registry_key": "PACIFICPOINTLABORATORIES"
+}, {
+  "entity_code": "O",
+  "medicare_name": "SINGULEX INC",
+  "registry_name": "LEGACY LABS LLC",
+  "medicare_key": "SINGULEX",
+  "registry_key": "LEGACYLABS"
+}, {
+  "entity_code": "O",
+  "medicare_name": "AREA METROPOLITAN AMBULANCE AUTHORITY",
+  "registry_name": "METROPOLITAN AREA EMS AUTHORITY",
+  "medicare_key": "AREAMETROPOLITANAMBULANCEAUTHORITY",
+  "registry_key": "METROPOLITANAREAEMSAUTHORITY"
+}, {
+  "entity_code": "O",
+  "medicare_name": "GOLD CROSS AMBULANCE SERVICE",
+  "registry_name": "MAYO CLINIC AMBULANCE",
+  "medicare_key": "GOLDCROSSAMBULANCESERVICE",
+  "registry_key": "MAYOCLINICAMBULANCE"
+}, {
+  "entity_code": "O",
+  "medicare_name": "BREVARD COUNTY FLORIDA",
+  "registry_name": "BREVARD COUNTY BOARD OF COUNTY COMMISSIONER",
+  "medicare_key": "BREVARDCOUNTYFLORIDA",
+  "registry_key": "BREVARDCOUNTYBOARDOFCOUNTYCOMMISSIONER"
+}, {
+  "entity_code": "O",
+  "medicare_name": "ORAL CANCER PREVENTION INTERNATIONAL, INC.",
+  "registry_name": "CDX DIAGNOSTICS, INC.",
+  "medicare_key": "ORALCANCERPREVENTIONINTERNATIONAL",
+  "registry_key": "CDXDIAGNOSTICS"
+}, {
+  "entity_code": "O",
+  "medicare_name": "CITY OF MEMPHIS EMS",
+  "registry_name": "CITY OF MEMPHIS GENERAL CITY GOVT.",
+  "medicare_key": "CITYOFMEMPHISEMS",
+  "registry_key": "CITYOFMEMPHISGENERALCITYGOVT"
+}, {
+  "entity_code": "O",
+  "medicare_name": "HISTOPATHOLOGY SERVICES LLC",
+  "registry_name": "NEOGENOMICS LABORATORIES INC",
+  "medicare_key": "HISTOPATHOLOGYSERVICES",
+  "registry_key": "NEOGENOMICSLABORATORIES"
+}, {
+  "entity_code": "O",
+  "medicare_name": "GENOMEDX BIOSCIENCES CORP",
+  "registry_name": "VERACYTE LABS SD CORPORATION",
+  "medicare_key": "GENOMEDXBIOSCIENCES",
+  "registry_key": "VERACYTELABSSD"
+}, {
+  "entity_code": "O",
+  "medicare_name": "AMERICAN INSTITUTE OF TOXICOLOGY, INC",
+  "registry_name": "HEALTHTRACKRX INDIANA, INC",
+  "medicare_key": "AMERICANINSTITUTEOFTOXICOLOGY",
+  "registry_key": "HEALTHTRACKRXINDIANA"
+}, {
+  "entity_code": "O",
+  "medicare_name": "SEATTLE PROCURE MANAGEMENT, LLC",
+  "registry_name": "SEATTLE PROTON CENTER, LLC",
+  "medicare_key": "SEATTLEPROCUREMANAGEMENT",
+  "registry_key": "SEATTLEPROTONCENTER"
+}]

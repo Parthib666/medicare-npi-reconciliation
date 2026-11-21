@@ -1,0 +1,176 @@
+[{
+  "provider_type": "Internal Medicine",
+  "usual_classification": "Internal Medicine",
+  "usual_pct": "84.5",
+  "flagged": "3231",
+  "type_providers": "93338",
+  "allowed_usd": "337317117.0"
+}, {
+  "provider_type": "Nurse Practitioner",
+  "usual_classification": "Nurse Practitioner",
+  "usual_pct": "97.5",
+  "flagged": "1961",
+  "type_providers": "77414",
+  "allowed_usd": "60207990.0"
+}, {
+  "provider_type": "Family Practice",
+  "usual_classification": "Family Medicine",
+  "usual_pct": "93.5",
+  "flagged": "1837",
+  "type_providers": "77657",
+  "allowed_usd": "158911892.0"
+}, {
+  "provider_type": "Emergency Medicine",
+  "usual_classification": "Emergency Medicine",
+  "usual_pct": "88.7",
+  "flagged": "1198",
+  "type_providers": "39562",
+  "allowed_usd": "89495146.0"
+}, {
+  "provider_type": "Physician Assistant",
+  "usual_classification": "Physician Assistant",
+  "usual_pct": "98.2",
+  "flagged": "969",
+  "type_providers": "53484",
+  "allowed_usd": "31830529.0"
+}, {
+  "provider_type": "General Surgery",
+  "usual_classification": "Surgery",
+  "usual_pct": "89.1",
+  "flagged": "760",
+  "type_providers": "18060",
+  "allowed_usd": "61815553.0"
+}, {
+  "provider_type": "CRNA",
+  "usual_classification": "Nurse Anesthetist, Certified Registered",
+  "usual_pct": "98.0",
+  "flagged": "679",
+  "type_providers": "33177",
+  "allowed_usd": "12462363.0"
+}, {
+  "provider_type": "Physical Therapist",
+  "usual_classification": "Physical Therapist",
+  "usual_pct": "96.9",
+  "flagged": "630",
+  "type_providers": "43330",
+  "allowed_usd": "45092394.0"
+}, {
+  "provider_type": "Anesthesiology",
+  "usual_classification": "Anesthesiology",
+  "usual_pct": "96.3",
+  "flagged": "584",
+  "type_providers": "33086",
+  "allowed_usd": "37465505.0"
+}, {
+  "provider_type": "Mass Immunization Roster Biller",
+  "usual_classification": "Pharmacy",
+  "usual_pct": "95.4",
+  "flagged": "478",
+  "type_providers": "23466",
+  "allowed_usd": "7972228.0"
+}, {
+  "provider_type": "Psychiatry",
+  "usual_classification": "Psychiatry \u0026 Neurology",
+  "usual_pct": "97.7",
+  "flagged": "468",
+  "type_providers": "20012",
+  "allowed_usd": "28221505.0"
+}, {
+  "provider_type": "General Practice",
+  "usual_classification": "General Practice",
+  "usual_pct": "41.7",
+  "flagged": "388",
+  "type_providers": "4746",
+  "allowed_usd": "37371525.0"
+}, {
+  "provider_type": "Cardiology",
+  "usual_classification": "Internal Medicine",
+  "usual_pct": "96.0",
+  "flagged": "357",
+  "type_providers": "19706",
+  "allowed_usd": "54049071.0"
+}, {
+  "provider_type": "Obstetrics/Gynecology",
+  "usual_classification": "Obstetrics \u0026 Gynecology",
+  "usual_pct": "94.8",
+  "flagged": "315",
+  "type_providers": "21770",
+  "allowed_usd": "17322163.0"
+}, {
+  "provider_type": "Orthopedic Surgery",
+  "usual_classification": "Orthopaedic Surgery",
+  "usual_pct": "95.2",
+  "flagged": "307",
+  "type_providers": "19958",
+  "allowed_usd": "30517737.0"
+}, {
+  "provider_type": "Physical Medicine and Rehabilitation",
+  "usual_classification": "Physical Medicine \u0026 Rehabilitation",
+  "usual_pct": "88.7",
+  "flagged": "273",
+  "type_providers": "7323",
+  "allowed_usd": "35864598.0"
+}, {
+  "provider_type": "Diagnostic Radiology",
+  "usual_classification": "Radiology",
+  "usual_pct": "98.0",
+  "flagged": "259",
+  "type_providers": "28078",
+  "allowed_usd": "40949284.0"
+}, {
+  "provider_type": "Clinical Psychologist",
+  "usual_classification": "Psychologist",
+  "usual_pct": "88.9",
+  "flagged": "246",
+  "type_providers": "12832",
+  "allowed_usd": "9162478.0"
+}, {
+  "provider_type": "Pathology",
+  "usual_classification": "Pathology",
+  "usual_pct": "96.1",
+  "flagged": "243",
+  "type_providers": "11051",
+  "allowed_usd": "39831992.0"
+}, {
+  "provider_type": "Neurology",
+  "usual_classification": "Psychiatry \u0026 Neurology",
+  "usual_pct": "92.5",
+  "flagged": "236",
+  "type_providers": "12607",
+  "allowed_usd": "28365624.0"
+}, {
+  "provider_type": "Ambulance Service Supplier",
+  "usual_classification": "Ambulance",
+  "usual_pct": "98.0",
+  "flagged": "190",
+  "type_providers": "9617",
+  "allowed_usd": "113871869.0"
+}, {
+  "provider_type": "Licensed Clinical Social Worker",
+  "usual_classification": "Social Worker",
+  "usual_pct": "93.4",
+  "flagged": "186",
+  "type_providers": "14687",
+  "allowed_usd": "3976300.0"
+}, {
+  "provider_type": "Nephrology",
+  "usual_classification": "Internal Medicine",
+  "usual_pct": "95.1",
+  "flagged": "186",
+  "type_providers": "7838",
+  "allowed_usd": "22466133.0"
+}, {
+  "provider_type": "Chiropractic",
+  "usual_classification": "Chiropractor",
+  "usual_pct": "99.5",
+  "flagged": "184",
+  "type_providers": "33807",
+  "allowed_usd": "3446635.0"
+}, {
+  "provider_type": "Ophthalmology",
+  "usual_classification": "Ophthalmology",
+  "usual_pct": "96.2",
+  "flagged": "172",
+  "type_providers": "16411",
+  "allowed_usd": "27333122.0"
+}]

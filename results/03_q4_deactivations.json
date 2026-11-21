@@ -1,0 +1,229 @@
+[{
+  "deactivation_year": "2005",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4",
+  "allowed_usd": "235541.0"
+}, {
+  "deactivation_year": "2005",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "45",
+  "allowed_usd": "5837199.0"
+}, {
+  "deactivation_year": "2006",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4",
+  "allowed_usd": "104445.0"
+}, {
+  "deactivation_year": "2006",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "1896",
+  "allowed_usd": "322622525.0"
+}, {
+  "deactivation_year": "2007",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4",
+  "allowed_usd": "191562.0"
+}, {
+  "deactivation_year": "2007",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "136",
+  "allowed_usd": "15338096.0"
+}, {
+  "deactivation_year": "2008",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "1",
+  "allowed_usd": "66345.0"
+}, {
+  "deactivation_year": "2008",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "23",
+  "allowed_usd": "3155560.0"
+}, {
+  "deactivation_year": "2009",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "9",
+  "allowed_usd": "525891.0"
+}, {
+  "deactivation_year": "2010",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "22",
+  "allowed_usd": "3728105.0"
+}, {
+  "deactivation_year": "2011",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "15",
+  "allowed_usd": "873454.0"
+}, {
+  "deactivation_year": "2012",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "7",
+  "allowed_usd": "277480.0"
+}, {
+  "deactivation_year": "2013",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "9",
+  "allowed_usd": "804337.0"
+}, {
+  "deactivation_year": "2014",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "11",
+  "allowed_usd": "833946.0"
+}, {
+  "deactivation_year": "2015",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "751",
+  "allowed_usd": "28842909.0"
+}, {
+  "deactivation_year": "2015",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "8",
+  "allowed_usd": "546270.0"
+}, {
+  "deactivation_year": "2016",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "1511",
+  "allowed_usd": "121220660.0"
+}, {
+  "deactivation_year": "2016",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "11",
+  "allowed_usd": "363896.0"
+}, {
+  "deactivation_year": "2017",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "1850",
+  "allowed_usd": "166945210.0"
+}, {
+  "deactivation_year": "2017",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "30",
+  "allowed_usd": "3239752.0"
+}, {
+  "deactivation_year": "2018",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "2591",
+  "allowed_usd": "181603861.0"
+}, {
+  "deactivation_year": "2018",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "60",
+  "allowed_usd": "6331039.0"
+}, {
+  "deactivation_year": "2019",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "3560",
+  "allowed_usd": "241519636.0"
+}, {
+  "deactivation_year": "2019",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "68",
+  "allowed_usd": "7573022.0"
+}, {
+  "deactivation_year": "2020",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4207",
+  "allowed_usd": "291871165.0"
+}, {
+  "deactivation_year": "2020",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "48",
+  "allowed_usd": "3839698.0"
+}, {
+  "deactivation_year": "2021",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "3149",
+  "allowed_usd": "285393311.0"
+}, {
+  "deactivation_year": "2021",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "47",
+  "allowed_usd": "3718786.0"
+}, {
+  "deactivation_year": "2022",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "3809",
+  "allowed_usd": "375919838.0"
+}, {
+  "deactivation_year": "2022",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "56",
+  "allowed_usd": "8805549.0"
+}, {
+  "deactivation_year": "2023",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "3729",
+  "allowed_usd": "350106334.0"
+}, {
+  "deactivation_year": "2023",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "35",
+  "allowed_usd": "4022331.0"
+}, {
+  "deactivation_year": "2024",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4639",
+  "allowed_usd": "402184305.0"
+}, {
+  "deactivation_year": "2024",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "43",
+  "allowed_usd": "5313433.0"
+}, {
+  "deactivation_year": "2025",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "4700",
+  "allowed_usd": "437620936.0"
+}, {
+  "deactivation_year": "2025",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "47",
+  "allowed_usd": "12950157.0"
+}, {
+  "deactivation_year": "2026",
+  "reason": null,
+  "status": "deactivated",
+  "providers": "508",
+  "allowed_usd": "56390374.0"
+}, {
+  "deactivation_year": "2026",
+  "reason": null,
+  "status": "reactivated",
+  "providers": "1",
+  "allowed_usd": "103961.0"
+}]

@@ -1,0 +1,81 @@
+[{
+  "state_2015": "NY",
+  "state_now": "FL",
+  "providers": "807"
+}, {
+  "state_2015": "NY",
+  "state_now": "NJ",
+  "providers": "716"
+}, {
+  "state_2015": "PA",
+  "state_now": "NJ",
+  "providers": "582"
+}, {
+  "state_2015": "NY",
+  "state_now": "CA",
+  "providers": "547"
+}, {
+  "state_2015": "PA",
+  "state_now": "FL",
+  "providers": "473"
+}, {
+  "state_2015": "OH",
+  "state_now": "FL",
+  "providers": "420"
+}, {
+  "state_2015": "IL",
+  "state_now": "FL",
+  "providers": "392"
+}, {
+  "state_2015": "NJ",
+  "state_now": "NY",
+  "providers": "366"
+}, {
+  "state_2015": "NY",
+  "state_now": "PA",
+  "providers": "354"
+}, {
+  "state_2015": "IL",
+  "state_now": "CA",
+  "providers": "351"
+}, {
+  "state_2015": "NY",
+  "state_now": "TX",
+  "providers": "351"
+}, {
+  "state_2015": "PA",
+  "state_now": "NY",
+  "providers": "347"
+}, {
+  "state_2015": "IL",
+  "state_now": "WI",
+  "providers": "346"
+}, {
+  "state_2015": "NJ",
+  "state_now": "PA",
+  "providers": "342"
+}, {
+  "state_2015": "GA",
+  "state_now": "FL",
+  "providers": "341"
+}, {
+  "state_2015": "TX",
+  "state_now": "CA",
+  "providers": "337"
+}, {
+  "state_2015": "MO",
+  "state_now": "KS",
+  "providers": "335"
+}, {
+  "state_2015": "MA",
+  "state_now": "CA",
+  "providers": "326"
+}, {
+  "state_2015": "IL",
+  "state_now": "IN",
+  "providers": "319"
+}, {
+  "state_2015": "FL",
+  "state_now": "TX",
+  "providers": "314"
+}]

@@ -1,0 +1,453 @@
+[{
+  "state": null,
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AA",
+  "medicare_providers": "9",
+  "registry_providers": "9"
+}, {
+  "state": "ADANA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AE",
+  "medicare_providers": "35",
+  "registry_providers": "76"
+}, {
+  "state": "AHMADI",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AK",
+  "medicare_providers": "2257",
+  "registry_providers": "2238"
+}, {
+  "state": "AK- ALASKA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AL",
+  "medicare_providers": "13672",
+  "registry_providers": "12790"
+}, {
+  "state": "ALABAMA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AP",
+  "medicare_providers": "24",
+  "registry_providers": "38"
+}, {
+  "state": "APO",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "AR",
+  "medicare_providers": "7961",
+  "registry_providers": "7526"
+}, {
+  "state": "AS",
+  "medicare_providers": "3",
+  "registry_providers": "1"
+}, {
+  "state": "AZ",
+  "medicare_providers": "18755",
+  "registry_providers": "18784"
+}, {
+  "state": "BAY OF PLENTY",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "BC",
+  "medicare_providers": null,
+  "registry_providers": "2"
+}, {
+  "state": "CA",
+  "medicare_providers": "76948",
+  "registry_providers": "76230"
+}, {
+  "state": "CE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "CENTRAL PROVINCE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "CO",
+  "medicare_providers": "15397",
+  "registry_providers": "15866"
+}, {
+  "state": "CT",
+  "medicare_providers": "14457",
+  "registry_providers": "13672"
+}, {
+  "state": "DC",
+  "medicare_providers": "3001",
+  "registry_providers": "2671"
+}, {
+  "state": "DE",
+  "medicare_providers": "3577",
+  "registry_providers": "3434"
+}, {
+  "state": "EU",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "FL",
+  "medicare_providers": "59326",
+  "registry_providers": "60274"
+}, {
+  "state": "FLORIDA",
+  "medicare_providers": null,
+  "registry_providers": "3"
+}, {
+  "state": "FORT BEND",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "GA",
+  "medicare_providers": "26165",
+  "registry_providers": "25396"
+}, {
+  "state": "GALIL",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "GU",
+  "medicare_providers": "152",
+  "registry_providers": "135"
+}, {
+  "state": "GUAYNABO",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "HI",
+  "medicare_providers": "3217",
+  "registry_providers": "3312"
+}, {
+  "state": "IA",
+  "medicare_providers": "10614",
+  "registry_providers": "9948"
+}, {
+  "state": "ID",
+  "medicare_providers": "4714",
+  "registry_providers": "4957"
+}, {
+  "state": "IL",
+  "medicare_providers": "40305",
+  "registry_providers": "37150"
+}, {
+  "state": "ILE DE FRANCE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ILLINOIS",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "IN",
+  "medicare_providers": "19856",
+  "registry_providers": "19154"
+}, {
+  "state": "INCIRLIK",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ISRAEL",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ISTANBUL",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "KARNATAKA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "KOREA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "KS",
+  "medicare_providers": "9996",
+  "registry_providers": "9502"
+}, {
+  "state": "KY",
+  "medicare_providers": "14404",
+  "registry_providers": "13391"
+}, {
+  "state": "LA",
+  "medicare_providers": "13500",
+  "registry_providers": "12511"
+}, {
+  "state": "LANCASHIRE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "MA",
+  "medicare_providers": "30826",
+  "registry_providers": "28625"
+}, {
+  "state": "MD",
+  "medicare_providers": "20294",
+  "registry_providers": "18903"
+}, {
+  "state": "ME",
+  "medicare_providers": "6212",
+  "registry_providers": "6177"
+}, {
+  "state": "MI",
+  "medicare_providers": "35735",
+  "registry_providers": "33149"
+}, {
+  "state": "MICHIGAN",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "MN",
+  "medicare_providers": "20843",
+  "registry_providers": "20812"
+}, {
+  "state": "MO",
+  "medicare_providers": "19653",
+  "registry_providers": "18496"
+}, {
+  "state": "MP",
+  "medicare_providers": "27",
+  "registry_providers": "22"
+}, {
+  "state": "MS",
+  "medicare_providers": "7867",
+  "registry_providers": "7074"
+}, {
+  "state": "MT",
+  "medicare_providers": "3663",
+  "registry_providers": "3899"
+}, {
+  "state": "NC",
+  "medicare_providers": "31843",
+  "registry_providers": "31922"
+}, {
+  "state": "NC - NORTH CAROLINA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ND",
+  "medicare_providers": "3162",
+  "registry_providers": "3046"
+}, {
+  "state": "NE",
+  "medicare_providers": "6879",
+  "registry_providers": "6644"
+}, {
+  "state": "NEW JERSEY",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "NEW MEXICO",
+  "medicare_providers": null,
+  "registry_providers": "2"
+}, {
+  "state": "NEWFOUNDLAND",
+  "medicare_providers": null,
+  "registry_providers": "2"
+}, {
+  "state": "NH",
+  "medicare_providers": "5838",
+  "registry_providers": "5813"
+}, {
+  "state": "NJ",
+  "medicare_providers": "30365",
+  "registry_providers": "29180"
+}, {
+  "state": "NM",
+  "medicare_providers": "5706",
+  "registry_providers": "5214"
+}, {
+  "state": "NV",
+  "medicare_providers": "6359",
+  "registry_providers": "6332"
+}, {
+  "state": "NY",
+  "medicare_providers": "68522",
+  "registry_providers": "63204"
+}, {
+  "state": "OH",
+  "medicare_providers": "38590",
+  "registry_providers": "36232"
+}, {
+  "state": "OK",
+  "medicare_providers": "10877",
+  "registry_providers": "10178"
+}, {
+  "state": "OKINAWA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ON",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ONTARIO",
+  "medicare_providers": null,
+  "registry_providers": "3"
+}, {
+  "state": "OR",
+  "medicare_providers": "11770",
+  "registry_providers": "11915"
+}, {
+  "state": "P.R.",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "PA",
+  "medicare_providers": "49180",
+  "registry_providers": "45916"
+}, {
+  "state": "PORDENONE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "PR",
+  "medicare_providers": "5321",
+  "registry_providers": "4925"
+}, {
+  "state": "PUERTO RICO",
+  "medicare_providers": null,
+  "registry_providers": "14"
+}, {
+  "state": "PUNJAB",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "QUEBEC",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "RHEILAND-PFALZ",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "RHINELAND-PALATINATE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "RI",
+  "medicare_providers": "4377",
+  "registry_providers": "4062"
+}, {
+  "state": "RIYADH",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "SAIPAN",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "SAN DIEGO",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "SAN JOSE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "SAUDI ARABIA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "SC",
+  "medicare_providers": "14096",
+  "registry_providers": "14073"
+}, {
+  "state": "SD",
+  "medicare_providers": "3512",
+  "registry_providers": "3407"
+}, {
+  "state": "SOR-TRONDELAG",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ST CROIX",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "TN",
+  "medicare_providers": "22383",
+  "registry_providers": "21324"
+}, {
+  "state": "TOKYO",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "TX",
+  "medicare_providers": "60933",
+  "registry_providers": "60164"
+}, {
+  "state": "UAE",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "US VIRGIN ISLANDS",
+  "medicare_providers": null,
+  "registry_providers": "2"
+}, {
+  "state": "USA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "UT",
+  "medicare_providers": "6896",
+  "registry_providers": "7052"
+}, {
+  "state": "VA",
+  "medicare_providers": "23695",
+  "registry_providers": "23359"
+}, {
+  "state": "VI",
+  "medicare_providers": "154",
+  "registry_providers": "145"
+}, {
+  "state": "VIRGINIA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "VT",
+  "medicare_providers": "2739",
+  "registry_providers": "2657"
+}, {
+  "state": "WA",
+  "medicare_providers": "22573",
+  "registry_providers": "22520"
+}, {
+  "state": "WESTERN REGION",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "WI",
+  "medicare_providers": "20969",
+  "registry_providers": "20470"
+}, {
+  "state": "WV",
+  "medicare_providers": "6323",
+  "registry_providers": "5621"
+}, {
+  "state": "WY",
+  "medicare_providers": "1816",
+  "registry_providers": "1728"
+}, {
+  "state": "XX",
+  "medicare_providers": "8",
+  "registry_providers": null
+}, {
+  "state": "YAMAGATA",
+  "medicare_providers": null,
+  "registry_providers": "1"
+}, {
+  "state": "ZZ",
+  "medicare_providers": "66",
+  "registry_providers": null
+}]

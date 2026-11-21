@@ -1,0 +1,43 @@
+[{
+  "medicare_entity": "I",
+  "registry_entity": "1",
+  "registry_status": "active",
+  "providers": "874319",
+  "allowed_usd": "84894701067.0"
+}, {
+  "medicare_entity": "O",
+  "registry_entity": "2",
+  "registry_status": "active",
+  "providers": "56452",
+  "allowed_usd": "16577105004.0"
+}, {
+  "medicare_entity": "I",
+  "registry_entity": null,
+  "registry_status": "deactivated",
+  "providers": "29516",
+  "allowed_usd": "2618143576.0"
+}, {
+  "medicare_entity": "O",
+  "registry_entity": null,
+  "registry_status": "deactivated",
+  "providers": "5501",
+  "allowed_usd": "322072857.0"
+}, {
+  "medicare_entity": "I",
+  "registry_entity": "1",
+  "registry_status": "reactivated",
+  "providers": "2560",
+  "allowed_usd": "390475359.0"
+}, {
+  "medicare_entity": "O",
+  "registry_entity": "2",
+  "registry_status": "reactivated",
+  "providers": "67",
+  "allowed_usd": "20329128.0"
+}, {
+  "medicare_entity": "I",
+  "registry_entity": null,
+  "registry_status": null,
+  "providers": "2",
+  "allowed_usd": "81818.0"
+}]

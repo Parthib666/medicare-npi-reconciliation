@@ -1,0 +1,111 @@
+[{
+  "check_id": "10",
+  "check_name": "ID not in registry",
+  "severity": "high",
+  "what_it_means": "Billed Medicare under an NPI the registry has no record of",
+  "providers_checked": "968417",
+  "providers_failed": "2",
+  "pct_failed": "0.0",
+  "allowed_usd_affected": "81818.0",
+  "pct_of_total_allowed": "0.0"
+}, {
+  "check_id": "11",
+  "check_name": "Invalid NPI (check digit)",
+  "severity": "high",
+  "what_it_means": "NPI fails the official check-digit formula, so it cannot be a real ID",
+  "providers_checked": "968417",
+  "providers_failed": "0",
+  "pct_failed": "0.0",
+  "allowed_usd_affected": "0.0",
+  "pct_of_total_allowed": "0.0"
+}, {
+  "check_id": "12a",
+  "check_name": "Deactivated before 2015",
+  "severity": "high",
+  "what_it_means": "NPI was deactivated years before it billed Medicare in 2015",
+  "providers_checked": "968415",
+  "providers_failed": "13",
+  "pct_failed": "0.001",
+  "allowed_usd_affected": "597892.0",
+  "pct_of_total_allowed": "0.001"
+}, {
+  "check_id": "13",
+  "check_name": "Person vs organisation",
+  "severity": "high",
+  "what_it_means": "Medicare and the registry disagree on whether the NPI is a person or an organisation",
+  "providers_checked": "933398",
+  "providers_failed": "0",
+  "pct_failed": "0.0",
+  "allowed_usd_affected": "0.0",
+  "pct_of_total_allowed": "0.0"
+}, {
+  "check_id": "17",
+  "check_name": "Billed before ID was issued",
+  "severity": "high",
+  "what_it_means": "Registry issue date is after 2015, but the NPI billed Medicare in 2015",
+  "providers_checked": "933398",
+  "providers_failed": "2",
+  "pct_failed": "0.0",
+  "allowed_usd_affected": "4689.0",
+  "pct_of_total_allowed": "0.0"
+}, {
+  "check_id": "12b",
+  "check_name": "Deactivated during 2015",
+  "severity": "medium",
+  "what_it_means": "Deactivated in the billing year; yearly data cannot show which came first",
+  "providers_checked": "968415",
+  "providers_failed": "751",
+  "pct_failed": "0.078",
+  "allowed_usd_affected": "28842909.0",
+  "pct_of_total_allowed": "0.028"
+}, {
+  "check_id": "16",
+  "check_name": "Unusual specialty",
+  "severity": "medium",
+  "what_it_means": "Registry specialty is held by under 1% of providers of the same Medicare type",
+  "providers_checked": "932737",
+  "providers_failed": "18744",
+  "pct_failed": "2.01",
+  "allowed_usd_affected": "1778983877.0",
+  "pct_of_total_allowed": "1.697"
+}, {
+  "check_id": "12c",
+  "check_name": "Deactivated after 2015",
+  "severity": "info",
+  "what_it_means": "Normal churn since 2015: retirement, death, practice closed",
+  "providers_checked": "968415",
+  "providers_failed": "34253",
+  "pct_failed": "3.537",
+  "allowed_usd_affected": "2910775631.0",
+  "pct_of_total_allowed": "2.777"
+}, {
+  "check_id": "14a",
+  "check_name": "Different state",
+  "severity": "info",
+  "what_it_means": "Practice state differs after cleaning; mostly providers who moved since 2015",
+  "providers_checked": "933387",
+  "providers_failed": "79027",
+  "pct_failed": "8.467",
+  "allowed_usd_affected": "6097303255.0",
+  "pct_of_total_allowed": "5.817"
+}, {
+  "check_id": "14b",
+  "check_name": "Same state, different ZIP",
+  "severity": "info",
+  "what_it_means": "Practice ZIP differs within the same state; mostly moves within the state",
+  "providers_checked": "933387",
+  "providers_failed": "140463",
+  "pct_failed": "15.049",
+  "allowed_usd_affected": "14946461291.0",
+  "pct_of_total_allowed": "14.259"
+}, {
+  "check_id": "15",
+  "check_name": "Different name",
+  "severity": "info",
+  "what_it_means": "Legal name differs after cleaning; marriage, or organisation renamed or acquired",
+  "providers_checked": "933382",
+  "providers_failed": "21057",
+  "pct_failed": "2.256",
+  "allowed_usd_affected": "1488256826.0",
+  "pct_of_total_allowed": "1.42"
+}]
